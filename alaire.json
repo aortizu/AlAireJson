@@ -3,24 +3,29 @@
       "edicion":4,
       "url":"https://drive.google.com/uc?id=1E25flZAyIDu2mvYSRrh2Xa6CB4xxrQmq",
       "fecha":"Julio 2019",
-      "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/4.png"
+      "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/4.png",
+      "size":"88 MB"
    },
    {
       "edicion":3,
       "url":"https://drive.google.com/uc?id=1LH8Qld1AmoiTnKaiFu93wjhP841C7IQw",
       "fecha":"Julio 2019",
-      "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/3.png"
+      "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/3.png",
+      "size":"38.8 MB"
    },
    {
       "edicion":2,
       "url":"https://drive.google.com/uc?id=14ba-0q5guJz8j6Wc3SxhGtG8OlTAGaqm",
       "fecha":"Abril 2019",
       "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/2.png"
+      ,
+      "size":"54.9 MB"
    },
    {
       "edicion":1,
       "url":"https://drive.google.com/uc?id=1aWFTi9H1Z6s0L7RLfxKjvfhcfJUZIuhu",
       "fecha":"Marzo 2019",
-      "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/1.png"
+      "img":"https://raw.githubusercontent.com/aortizu/AlAireJson/master/1.png",
+      "size":"26.1 MB"
    }
 ]
